@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * 23b9c30 (HEAD -> three) update graph on branch three, it slipped.
 | * 85319e7 (origin/two, two) Delete a script here on branch two, whoops.
 | | * 4d4db3f (origin/one, one) Revert "Merge pull request #36 from wayneworkman/two"
@@ -63,6 +64,13 @@
 | * | b9fd391 Merge pull request #29 from wayneworkman/three
 | |\| 
 | | *   7f4247c Merge pull request #28 from wayneworkman/four
+=======
+*   5252968 (HEAD -> four, origin/one, origin/four, two, three, one) Merge pull request #30 from wayneworkman/two
+|\  
+| *   b9fd391 (origin/two) Merge pull request #29 from wayneworkman/three
+| |\  
+| | *   7f4247c (origin/three) Merge pull request #28 from wayneworkman/four
+>>>>>>> two
 | | |\  
 | | | *   12c0d63 Merge branch 'three' into four
 | | | |\  
