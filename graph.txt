@@ -1,10 +1,38 @@
-*   a92b109 (HEAD -> four, origin/four) Fix conflicts, it's easy
+*   033c608 (HEAD -> four, origin/four) Fixed the conflict, easy
 |\  
-| *   51e9268 (origin/three, three) Fix conflicts, it's easy
+| *   b1498db (three) Fixed the conflict, easy
 | |\  
-| | *   b447c9f (origin/two, two) Fix conflicts, it's easy
+| | *   5c31c7c (two) Merge branch 'one' into two
 | | |\  
-| | | *   c66bb61 (origin/one, one) Merge branch 'one' of github.com:wayneworkman/wayne_testing into one
+| | | * 4d4db3f (origin/one, one) Revert "Merge pull request #36 from wayneworkman/two"
+| | | *   d77960d Merge pull request #36 from wayneworkman/two
+| | | |\  
+| | * | | 85319e7 (origin/two) Delete a script here on branch two, whoops.
+| | | |/  
+| | |/|   
+| | * |   58f704c Merge pull request #35 from wayneworkman/three
+| | |\ \  
+| * | \ \   1be9424 (origin/three) update graph on branch three, it slipped.
+| |\ \ \ \  
+| | | |/ /  
+| | |/| |   
+| | * | |   b43b6b4 Merge pull request #34 from wayneworkman/four
+| | |\ \ \  
+| * | | | | 23b9c30 update graph on branch three, it slipped.
+| |/ / / /  
+* | | | | 38ce46d Another commit
+* | | | | 8fe383c Revert "Do it right, commit to four directly."
+* | | | | e9671e5 Do it right, commit to four directly.
+| |/ / /  
+|/| | |   
+* | | | 78c54f1 Update the graph
+* | | | a92b109 Fix conflicts, it's easy
+|\| | | 
+| * | | 51e9268 Fix conflicts, it's easy
+| |\| | 
+| | * | b447c9f Fix conflicts, it's easy
+| | |\| 
+| | | *   c66bb61 Merge branch 'one' of github.com:wayneworkman/wayne_testing into one
 | | | |\  
 | | | | *   1cdc386 Merge pull request #33 from wayneworkman/two
 | | | | |\  

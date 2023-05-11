@@ -37,3 +37,7 @@ Do it right, commit to four directly.
 Mess everything up by committing to three directly.
 Mess everything up by committing to two directly.
 Mess everything up by committing to one directly.
+
+Another commit
+
+I'm a dev just trying to work, branch four.
