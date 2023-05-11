@@ -1,18 +1,34 @@
-*   033c608 (HEAD -> four, origin/four) Fixed the conflict, easy
+*   1335940 (HEAD -> four, origin/four) Merge branch 'three' into four
 |\  
-| *   b1498db (three) Fixed the conflict, easy
+| *   f72c478 (origin/one, two, three, one) Merge pull request #39 from wayneworkman/two
 | |\  
-| | *   5c31c7c (two) Merge branch 'one' into two
+| | *   9d34fb0 (origin/two) Merge pull request #38 from wayneworkman/three
 | | |\  
-| | | * 4d4db3f (origin/one, one) Revert "Merge pull request #36 from wayneworkman/two"
+| | | *   0242fc6 (origin/three) Merge pull request #37 from wayneworkman/four
+| | | |\  
+* | | | | af599a4 Dive, dive, dive!
+| |_|_|/  
+|/| | |   
+* | | | 5ac285b Update graph
+* | | |   033c608 Fixed the conflict, easy
+|\ \ \ \  
+| * \ \ \   b1498db Fixed the conflict, easy
+| |\ \ \ \  
+| | |_|_|/  
+| |/| | |   
+| | * | | 5c31c7c Merge branch 'one' into two
+| | |\| | 
+| | | |/  
+| | |/|   
+| | | * 4d4db3f Revert "Merge pull request #36 from wayneworkman/two"
 | | | *   d77960d Merge pull request #36 from wayneworkman/two
 | | | |\  
-| | * | | 85319e7 (origin/two) Delete a script here on branch two, whoops.
+| | * | | 85319e7 Delete a script here on branch two, whoops.
 | | | |/  
 | | |/|   
 | | * |   58f704c Merge pull request #35 from wayneworkman/three
 | | |\ \  
-| * | \ \   1be9424 (origin/three) update graph on branch three, it slipped.
+| * | \ \   1be9424 update graph on branch three, it slipped.
 | |\ \ \ \  
 | | | |/ /  
 | | |/| |   
