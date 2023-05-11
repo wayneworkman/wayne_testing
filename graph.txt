@@ -1,0 +1,84 @@
+*   7f7d1b2 (HEAD -> four, origin/four) Merge branch 'three' into four
+|\  
+| *   bd43833 (origin/one, two, three, one) Merge pull request #12 from wayneworkman/two
+| |\  
+| | *   6434a44 (origin/two) Merge pull request #11 from wayneworkman/three
+| | |\  
+| | | *   48c5074 (origin/three) Merge pull request #10 from wayneworkman/four
+| | | |\  
+* | | | | df23d72 Gosh, even more development work
+| |_|_|/  
+|/| | |   
+* | | | 8c52e16 put lines in order
+* | | |   796a320 Fix conflicts
+|\ \ \ \  
+| * \ \ \   65f839c Fix conflicts
+| |\ \ \ \  
+| | | |/ /  
+| | |/| /   
+| | |_|/    
+| |/| |     
+| | * | 6bd7a8d Fix conflicts
+| | |\| 
+| | | * d687c61 multiple commits on all branches for a long time without merge 13.
+| | | * 718a0cc multiple commits on all branches for a long time without merge 12.
+| | | * 7950187 multiple commits on all branches for a long time without merge 4.
+| | * | ffa9956 multiple commits on all branches for a long time without merge 11.
+| | * | 201516e multiple commits on all branches for a long time without merge 5.
+| | * | 1d1f9a6 multiple commits on all branches for a long time without merge 3.
+| | |/  
+| * | 7552c2f multiple commits on all branches for a long time without merge 10.
+| * | 593860e multiple commits on all branches for a long time without merge 9.
+| * | 95db7ae multiple commits on all branches for a long time without merge 6.
+| * | 93d05be multiple commits on all branches for a long time without merge 2.
+| |/  
+* | 6dd9aa3 Innocent commit
+* | 62e8ac7 multiple commits on all branches for a long time without merge 8.
+* | ecc9f0b multiple commits on all branches for a long time without merge 7.
+* | 77b785e multiple commits on all branches for a long time without merge 1.
+* | 0e4e500 multiple commits on all branches for a long time without merge 1.
+|/  
+*   6e809d9 Fix issues
+|\  
+| *   e939759 Fix the issues
+| |\  
+| | *   ff8996d Fix the issues
+| | |\  
+| | | * 9639d33 Let's try to make this so bad, 4
+| | * | db08019 Let's try to make this so bad, 3
+| * | | c34083f Let's try to make this so bad, 2
+* | | | c3e3f5a Let's try to make this so bad, 1
+* | | | 34c4c36 Merge pull request #9 from wayneworkman/two
+|\| | | 
+| * | | 77eb973 Merge pull request #8 from wayneworkman/three
+| |\| | 
+| | * | 10cdaf5 Merge pull request #7 from wayneworkman/four
+| | |\| 
+| | | *   29d903e Resolve conflict
+| | | |\  
+| |_|_|/  
+|/| | |   
+* | | | c108ecb Directly commiting to the one branch
+* | | | f649a99 Merge pull request #6 from wayneworkman/two
+|\| | | 
+| * | | af5f5dc Merge pull request #5 from wayneworkman/three
+|/| | | 
+| |/ /  
+| * | 20ab13c Merge pull request #4 from wayneworkman/four
+|/| | 
+| | * 3859b20 Committing my normal every day work.
+| |/  
+| * 0b2aff9 One more change
+|/  
+* 00d8bdb another change
+*   c954181 Merge pull request #3 from wayneworkman/two
+|\  
+| * d5d4815 Merge pull request #2 from wayneworkman/three
+|/| 
+| * 39dd364 Merge pull request #1 from wayneworkman/four
+|/| 
+| * 8fd2b54 Added a line
+|/  
+* 9cb6b5b (origin/1025, 1025) scripting
+* b208b97 add log file.
+* f654d55 add test script.
