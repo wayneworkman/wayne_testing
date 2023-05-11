@@ -1,10 +1,22 @@
-*   1335940 (HEAD -> four, origin/four) Merge branch 'three' into four
-|\  
-| *   f72c478 (origin/one, two, three, one) Merge pull request #39 from wayneworkman/two
+* 6ccec54 (HEAD -> four, origin/four) one last one...
+* c96a878 yet another commit.
+* fc74273 A third commit, very bland.
+| *   06cbd8a (origin/one) Merge pull request #42 from wayneworkman/two
 | |\  
-| | *   9d34fb0 (origin/two) Merge pull request #38 from wayneworkman/three
+| | *   a3a415e (origin/two) Merge pull request #41 from wayneworkman/three
 | | |\  
-| | | *   0242fc6 (origin/three) Merge pull request #37 from wayneworkman/four
+| | | *   22327fe (origin/three) Merge pull request #40 from wayneworkman/four
+| | | |\  
+| |_|_|/  
+|/| | |   
+* | | | 955b056 Update graph
+* | | | 1335940 Merge branch 'three' into four
+|\| | | 
+| * | | f72c478 (two, three, one) Merge pull request #39 from wayneworkman/two
+| |\| | 
+| | * | 9d34fb0 Merge pull request #38 from wayneworkman/three
+| | |\| 
+| | | *   0242fc6 Merge pull request #37 from wayneworkman/four
 | | | |\  
 * | | | | af599a4 Dive, dive, dive!
 | |_|_|/  
