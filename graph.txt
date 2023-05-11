@@ -1,42 +1,98 @@
-*   7f7d1b2 (HEAD -> four, origin/four) Merge branch 'three' into four
+*   5252968 (HEAD -> four, origin/one, origin/four, two, three, one) Merge pull request #30 from wayneworkman/two
 |\  
-| *   bd43833 (origin/one, two, three, one) Merge pull request #12 from wayneworkman/two
+| *   b9fd391 (origin/two) Merge pull request #29 from wayneworkman/three
 | |\  
-| | *   6434a44 (origin/two) Merge pull request #11 from wayneworkman/three
+| | *   7f4247c (origin/three) Merge pull request #28 from wayneworkman/four
 | | |\  
-| | | *   48c5074 (origin/three) Merge pull request #10 from wayneworkman/four
+| | | *   12c0d63 Merge branch 'three' into four
 | | | |\  
-* | | | | df23d72 Gosh, even more development work
 | |_|_|/  
 |/| | |   
-* | | | 8c52e16 put lines in order
-* | | |   796a320 Fix conflicts
-|\ \ \ \  
-| * \ \ \   65f839c Fix conflicts
+* | | | 5d84e93 Merge pull request #27 from wayneworkman/two
+|\| | | 
+| * | | 80161c4 Merge pull request #26 from wayneworkman/three
+| |\| | 
+| | * |   d5636ff Merge pull request #25 from wayneworkman/four
+| | |\ \  
+* | | | | 367927c Merge pull request #24 from wayneworkman/two
+|\| | | | 
+| * | | | 0d63676 Merge pull request #23 from wayneworkman/three
+| |\| | | 
+* | | | | 6f15973 Merge pull request #21 from wayneworkman/two
+|\| | | | 
+| * | | |   dca5652 Merge pull request #20 from wayneworkman/three
 | |\ \ \ \  
-| | | |/ /  
-| | |/| /   
-| | |_|/    
-| |/| |     
-| | * | 6bd7a8d Fix conflicts
-| | |\| 
-| | | * d687c61 multiple commits on all branches for a long time without merge 13.
-| | | * 718a0cc multiple commits on all branches for a long time without merge 12.
-| | | * 7950187 multiple commits on all branches for a long time without merge 4.
-| | * | ffa9956 multiple commits on all branches for a long time without merge 11.
-| | * | 201516e multiple commits on all branches for a long time without merge 5.
-| | * | 1d1f9a6 multiple commits on all branches for a long time without merge 3.
-| | |/  
+* | | | | | b977bef Merge pull request #18 from wayneworkman/two
+|\| | | | | 
+| * | | | |   84432a1 Merge pull request #17 from wayneworkman/three
+| |\ \ \ \ \  
+* | | | | | | c86d97c Merge pull request #15 from wayneworkman/two
+|\| | | | | | 
+| * | | | | |   7e1b80e Merge pull request #14 from wayneworkman/three
+| |\ \ \ \ \ \  
+| | | | | | | * 1915082 back-propagate everything.
+| | | | | | |/  
+| | | | | | *   5ce25cf Merge branch 'three' into four
+| | | | | | |\  
+| | | | | | |/  
+| | | | | |/|   
+| | | | | * | abe3b93 Merge pull request #22 from wayneworkman/four
+| | | | |/| | 
+| | | | * | | 62ae6c7 Merge pull request #19 from wayneworkman/four
+| | | |/| | | 
+| | | * | | | db29825 Merge pull request #16 from wayneworkman/four
+| | |/| | | | 
+| | * | | | |   855611e Merge pull request #13 from wayneworkman/four
+| | |\ \ \ \ \  
+| | | | | | | * e59573b Another log change, not back-propagating anything 3.
+| | | | | | |/  
+| | | | | | * a9380eb Another log change, not back-propagating anything 1.
+| | | | | |/  
+| | | | | * 57d7f23 Another log change, not back-propagating anything 1.
+| | | | |/  
+| | | | * 3f960d6 Add the graph to the repo showing all of it.
+| | | |/  
+| | | *   7f7d1b2 Merge branch 'three' into four
+| | | |\  
+| |_|_|/  
+|/| | |   
+* | | | bd43833 Merge pull request #12 from wayneworkman/two
+|\| | | 
+| * | | 6434a44 Merge pull request #11 from wayneworkman/three
+| |\| | 
+| | * |   48c5074 Merge pull request #10 from wayneworkman/four
+| | |\ \  
+| | | | * df23d72 Gosh, even more development work
+| | | |/  
+| | | * 8c52e16 put lines in order
+| | | *   796a320 Fix conflicts
+| | | |\  
+| | | | * 65f839c Fix conflicts
+| | | |/| 
+| | |/|/  
+| | |/|   
+| |/| |   
+| * | |   6bd7a8d Fix conflicts
+| |\ \ \  
+| |/ / /  
+|/| | |   
+* | | | d687c61 multiple commits on all branches for a long time without merge 13.
+* | | | 718a0cc multiple commits on all branches for a long time without merge 12.
+* | | | 7950187 multiple commits on all branches for a long time without merge 4.
+| * | | ffa9956 multiple commits on all branches for a long time without merge 11.
+| * | | 201516e multiple commits on all branches for a long time without merge 5.
+| * | | 1d1f9a6 multiple commits on all branches for a long time without merge 3.
+|/ / /  
 | * | 7552c2f multiple commits on all branches for a long time without merge 10.
 | * | 593860e multiple commits on all branches for a long time without merge 9.
 | * | 95db7ae multiple commits on all branches for a long time without merge 6.
 | * | 93d05be multiple commits on all branches for a long time without merge 2.
-| |/  
-* | 6dd9aa3 Innocent commit
-* | 62e8ac7 multiple commits on all branches for a long time without merge 8.
-* | ecc9f0b multiple commits on all branches for a long time without merge 7.
-* | 77b785e multiple commits on all branches for a long time without merge 1.
-* | 0e4e500 multiple commits on all branches for a long time without merge 1.
+|/ /  
+| * 6dd9aa3 Innocent commit
+| * 62e8ac7 multiple commits on all branches for a long time without merge 8.
+| * ecc9f0b multiple commits on all branches for a long time without merge 7.
+| * 77b785e multiple commits on all branches for a long time without merge 1.
+| * 0e4e500 multiple commits on all branches for a long time without merge 1.
 |/  
 *   6e809d9 Fix issues
 |\  
