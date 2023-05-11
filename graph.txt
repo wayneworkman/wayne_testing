@@ -1,8 +1,45 @@
-*   5252968 (HEAD -> four, origin/one, origin/four, two, three, one) Merge pull request #30 from wayneworkman/two
+*   a92b109 (HEAD -> four, origin/four) Fix conflicts, it's easy
 |\  
-| *   b9fd391 (origin/two) Merge pull request #29 from wayneworkman/three
+| *   51e9268 (origin/three, three) Fix conflicts, it's easy
 | |\  
-| | *   7f4247c (origin/three) Merge pull request #28 from wayneworkman/four
+| | *   b447c9f (origin/two, two) Fix conflicts, it's easy
+| | |\  
+| | | *   c66bb61 (origin/one, one) Merge branch 'one' of github.com:wayneworkman/wayne_testing into one
+| | | |\  
+| | | | *   1cdc386 Merge pull request #33 from wayneworkman/two
+| | | | |\  
+| | | * | | f593f50 Mess everything up by committing to one directly.
+| | | |/ /  
+| | * | |   2b8ed59 Merge branch 'two' of github.com:wayneworkman/wayne_testing into two
+| | |\ \ \  
+| | | | |/  
+| | | |/|   
+| | | * |   a92edc3 Merge pull request #32 from wayneworkman/three
+| | | |\ \  
+| | * | | | e0e022a Mess everything up by committing to two directly.
+| | | |_|/  
+| | |/| |   
+| * | | |   6369ed3 Merge branch 'three' of github.com:wayneworkman/wayne_testing into three
+| |\ \ \ \  
+| | | |_|/  
+| | |/| |   
+| | * | |   b575161 Merge pull request #31 from wayneworkman/four
+| | |\ \ \  
+| * | | | | 3d5dfde Mess everything up by committing to three directly.
+| | |_|/ /  
+| |/| | |   
+* | | | | 714596f Do it right, commit to four directly.
+| |_|/ /  
+|/| | |   
+* | | | b9ea8ed Update graph, and backpropagate too.
+|/ / /  
+* | |   5252968 Merge pull request #30 from wayneworkman/two
+|\ \ \  
+| | |/  
+| |/|   
+| * | b9fd391 Merge pull request #29 from wayneworkman/three
+| |\| 
+| | *   7f4247c Merge pull request #28 from wayneworkman/four
 | | |\  
 | | | *   12c0d63 Merge branch 'three' into four
 | | | |\  
