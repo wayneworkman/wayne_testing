@@ -9,4 +9,4 @@ Let's try to make this so bad, 2
 Let's try to make this so bad, 3
 Let's try to make this so bad, 4
 
-We have to try much harder to fail, multiple commits on all branches for a long time without merge 1.
+multiple commits on all branches for a long time without merge 1.
