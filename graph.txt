@@ -1,62 +1,66 @@
-<<<<<<< HEAD
-* 23b9c30 (HEAD -> three) update graph on branch three, it slipped.
-| * 85319e7 (origin/two, two) Delete a script here on branch two, whoops.
-| | * 4d4db3f (origin/one, one) Revert "Merge pull request #36 from wayneworkman/two"
-| | *   d77960d Merge pull request #36 from wayneworkman/two
+*   033c608 (HEAD -> four, origin/four) Fixed the conflict, easy
+|\  
+| *   b1498db (three) Fixed the conflict, easy
+| |\  
+| | *   5c31c7c (two) Merge branch 'one' into two
 | | |\  
-| | |/  
-| |/|   
-| * |   58f704c Merge pull request #35 from wayneworkman/three
-| |\ \  
-| | * | b43b6b4 (origin/three) Merge pull request #34 from wayneworkman/four
-| |/| | 
-|/| | | 
-| | | | * 38ce46d (four) Another commit
-| | | | * 8fe383c Revert "Do it right, commit to four directly."
-| | | | * e9671e5 Do it right, commit to four directly.
+| | | * 4d4db3f (origin/one, one) Revert "Merge pull request #36 from wayneworkman/two"
+| | | *   d77960d Merge pull request #36 from wayneworkman/two
+| | | |\  
+| | * | | 85319e7 (origin/two) Delete a script here on branch two, whoops.
 | | | |/  
 | | |/|   
-| | * | 78c54f1 (origin/four) Update the graph
-| | * |   a92b109 Fix conflicts, it's easy
+| | * |   58f704c Merge pull request #35 from wayneworkman/three
 | | |\ \  
-| |_|/ /  
-|/| | |   
-* | | | 51e9268 Fix conflicts, it's easy
-|\| | | 
-| * | |   b447c9f Fix conflicts, it's easy
-| |\ \ \  
-| | | |/  
-| | |/|   
-| | * |   c66bb61 Merge branch 'one' of github.com:wayneworkman/wayne_testing into one
-| | |\ \  
-| | | * \   1cdc386 Merge pull request #33 from wayneworkman/two
-| | | |\ \  
-| | * | | | f593f50 Mess everything up by committing to one directly.
-| | |/ / /  
-| * | | |   2b8ed59 Merge branch 'two' of github.com:wayneworkman/wayne_testing into two
+| * | \ \   1be9424 (origin/three) update graph on branch three, it slipped.
 | |\ \ \ \  
 | | | |/ /  
 | | |/| |   
-| | * | |   a92edc3 Merge pull request #32 from wayneworkman/three
+| | * | |   b43b6b4 Merge pull request #34 from wayneworkman/four
 | | |\ \ \  
-| * | | | | e0e022a Mess everything up by committing to two directly.
-| | |_|/ /  
-| |/| | |   
-* | | | |   6369ed3 Merge branch 'three' of github.com:wayneworkman/wayne_testing into three
-|\ \ \ \ \  
-| | |_|/ /  
-| |/| | |   
-| * | | |   b575161 Merge pull request #31 from wayneworkman/four
+| * | | | | 23b9c30 update graph on branch three, it slipped.
+| |/ / / /  
+* | | | | 38ce46d Another commit
+* | | | | 8fe383c Revert "Do it right, commit to four directly."
+* | | | | e9671e5 Do it right, commit to four directly.
+| |/ / /  
+|/| | |   
+* | | | 78c54f1 Update the graph
+* | | | a92b109 Fix conflicts, it's easy
+|\| | | 
+| * | | 51e9268 Fix conflicts, it's easy
+| |\| | 
+| | * | b447c9f Fix conflicts, it's easy
+| | |\| 
+| | | *   c66bb61 Merge branch 'one' of github.com:wayneworkman/wayne_testing into one
+| | | |\  
+| | | | *   1cdc386 Merge pull request #33 from wayneworkman/two
+| | | | |\  
+| | | * | | f593f50 Mess everything up by committing to one directly.
+| | | |/ /  
+| | * | |   2b8ed59 Merge branch 'two' of github.com:wayneworkman/wayne_testing into two
+| | |\ \ \  
+| | | | |/  
+| | | |/|   
+| | | * |   a92edc3 Merge pull request #32 from wayneworkman/three
+| | | |\ \  
+| | * | | | e0e022a Mess everything up by committing to two directly.
+| | | |_|/  
+| | |/| |   
+| * | | |   6369ed3 Merge branch 'three' of github.com:wayneworkman/wayne_testing into three
 | |\ \ \ \  
-* | | | | | 3d5dfde Mess everything up by committing to three directly.
-| |_|/ / /  
-|/| | | |   
-| | | | * 714596f Do it right, commit to four directly.
-| | | |/  
-| | |/|   
-| | * | b9ea8ed Update graph, and backpropagate too.
-| |/ /  
-|/| |   
+| | | |_|/  
+| | |/| |   
+| | * | |   b575161 Merge pull request #31 from wayneworkman/four
+| | |\ \ \  
+| * | | | | 3d5dfde Mess everything up by committing to three directly.
+| | |_|/ /  
+| |/| | |   
+* | | | | 714596f Do it right, commit to four directly.
+| |_|/ /  
+|/| | |   
+* | | | b9ea8ed Update graph, and backpropagate too.
+|/ / /  
 * | |   5252968 Merge pull request #30 from wayneworkman/two
 |\ \ \  
 | | |/  
@@ -64,13 +68,6 @@
 | * | b9fd391 Merge pull request #29 from wayneworkman/three
 | |\| 
 | | *   7f4247c Merge pull request #28 from wayneworkman/four
-=======
-*   5252968 (HEAD -> four, origin/one, origin/four, two, three, one) Merge pull request #30 from wayneworkman/two
-|\  
-| *   b9fd391 (origin/two) Merge pull request #29 from wayneworkman/three
-| |\  
-| | *   7f4247c (origin/three) Merge pull request #28 from wayneworkman/four
->>>>>>> two
 | | |\  
 | | | *   12c0d63 Merge branch 'three' into four
 | | | |\  
