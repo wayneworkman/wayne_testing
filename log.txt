@@ -33,6 +33,7 @@ Another log change, not back-propagating anything 2.
 Another log change, not back-propagating anything 3.
 back-propagate everything.
 
+Do it right, commit to four directly.
 Mess everything up by committing to three directly.
 Mess everything up by committing to two directly.
 Mess everything up by committing to one directly.
